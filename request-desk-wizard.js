@@ -1,6 +1,8 @@
 /*
 * Request desk wizard
-* Used on [[User:Zanahary/Request desk]]
+* Used on [[c:User:Zanahary/Request desk]]
+* Created by [[User:Chaotic Enby]] with functions taken from [[w:MediaWiki:AFC-submit-wizard.js]] by [[User:SD0001]]
+* Dual-licensed: MIT and CC BY-SA 4.0
 */
 
 (function () {
